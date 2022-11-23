@@ -19,8 +19,8 @@ export const Avata = () => {
   return (
     <div className="rounded">
       <Avatar
-        width={200}
-        height={200}
+        width={50}
+        height={50}
         onCrop={onCrop}
         onClose={onClose}
         onBeforeFileLoad={onBeforeFileLoad}
